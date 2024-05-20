@@ -21,10 +21,10 @@ This project is a minimum viable product for a registry of government funded tra
 step-by-step instructions to set up the project locally.
 
 ##### Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/BhaskarKumar7/Traini8.git
 
 ##### Navigate to the project directory
-cd your-project
+cd {project-location}
 
 ##### Build the project
 mvn clean install
